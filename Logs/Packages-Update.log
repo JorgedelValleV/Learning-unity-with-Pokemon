@@ -1,0 +1,26 @@
+
+=== Fri Feb 12 22:10:46 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ext.nunit from version 1.0.0 to 1.0.6
+  com.unity.ide.rider from version 1.1.0 to 1.1.4
+  com.unity.ide.vscode from version 1.1.2 to 1.2.3
+  com.unity.test-framework from version 1.0.13 to 1.1.22
+  com.unity.timeline from version 1.1.0 to 1.2.6
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
+
+=== Tue Feb 16 18:47:37 2021
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were updated:
+  com.unity.textmeshpro from version 2.0.1 to 2.1.1
+  com.unity.timeline from version 1.2.6 to 1.2.18
+The following packages were removed:
+  com.unity.2d.sprite@1.0.0
+  com.unity.ext.nunit@1.0.6
