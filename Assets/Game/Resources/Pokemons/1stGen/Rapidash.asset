@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14edbbebe266cb847acdc64e6c1895a4, type: 3}
+  m_Name: Rapidash
+  m_EditorClassIdentifier: 
+  name: Rapidash
+  description: 
+  frontSprite: {fileID: 21300000, guid: 6903b7322210c244398930419fc5b8e8, type: 3}
+  backSprite: {fileID: 21300000, guid: 2b763b9f9b8e1e542a8d3d9d11ad9c48, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 65
+  attack: 100
+  defense: 70
+  spAttack: 80
+  spDefense: 80
+  speed: 105
+  nature: 0
+  learnableMoves: []
