@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14edbbebe266cb847acdc64e6c1895a4, type: 3}
+  m_Name: Gyarados
+  m_EditorClassIdentifier: 
+  name: Gyarados
+  description: 
+  frontSprite: {fileID: 21300000, guid: 0377dc787fb4f864687cfc520e2ee2fb, type: 3}
+  backSprite: {fileID: 21300000, guid: 900a451e926dc024f944ca2090549d9f, type: 3}
+  type1: 3
+  type2: 10
+  maxHp: 95
+  attack: 125
+  defense: 79
+  spAttack: 60
+  spDefense: 100
+  speed: 81
+  nature: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 9214816055627dc49aef48f3aa6dd716, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: aa7e2045586a3eb4784351499b0652e3, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: d9b45efcea3510d49ae24ac1f758617f, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 814cafabb7c84fe40a4c2031fbe8d6f4, type: 2}
+    level: 0
