@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14edbbebe266cb847acdc64e6c1895a4, type: 3}
+  m_Name: Exeggutor
+  m_EditorClassIdentifier: 
+  name: Exeggutor
+  description: 
+  frontSprite: {fileID: 21300000, guid: d9d955e3a6b1bce489c3313a8d794d74, type: 3}
+  backSprite: {fileID: 21300000, guid: 88b10da0fbba0f14183b43da649f5b71, type: 3}
+  type1: 5
+  type2: 11
+  maxHp: 95
+  attack: 95
+  defense: 85
+  spAttack: 125
+  spDefense: 75
+  speed: 55
+  nature: 0
+  learnableMoves: []
